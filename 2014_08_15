@@ -1,0 +1,16 @@
+#### Weekly C0de Shar3
++ active support:with_indifferent_access
++ 责任链模式 get_searach_builder
++ 解释器模式
++ self self.class
++ 类方法，实例方法
++ Tire
++ Tire#suggestion
++ Tire#facets
++ query_delegate.rb
++ mongodb
++ boost
++ builder 模式: 实现复杂构建逻辑
++ Search::CategoryMappingRule
++ `private_class_method :new`
++ `$redis` `REDIS`
