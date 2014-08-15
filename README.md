@@ -1,4 +1,4 @@
 A3_weekly_code_share
 ====================
 
-  + [2014-08-15-A3pi](https://gist.github.com/minxr/169278f856851e3c1aa0)
+  + [A3PI by Mark 2014-08-15](https://github.com/minxr/A3_weekly_code_share/blob/master/2014_08_15.md)
